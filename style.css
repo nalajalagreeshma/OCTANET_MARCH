@@ -9,7 +9,7 @@
 .container {
     height: 100vh;
     width: 100%;
-    background: linear-gradient(to right, #93C572 70%, #C8EBB1 30%);
+    background: linear-gradient(to right, #c58e72 70%, #b7ebb1 30%);
     position: relative;
     overflow: hidden;
 }
@@ -74,7 +74,7 @@ nav ul a:hover:after{
 .main-content h1 {
     font-size: 60px;
     letter-spacing: 1px;
-    color: #494234;
+    color: #413449;
 }
 .main-content p{
     margin-top: 10px;
@@ -117,7 +117,7 @@ nav ul a:hover:after{
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    box-shadow: -5px 5px 17px rgba(0,0,0,0.3);
+    box-shadow: -5px 5px 17px rgba(33,106,125,0.3);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -152,7 +152,7 @@ nav ul a:hover:after{
     width: 35px;
     height: 35px;
     border-radius: 50%;
-    background-color: #93C572;
+    background-color: #c572af;
     display: inline-flex;
     align-items: center;
     justify-content: center;
